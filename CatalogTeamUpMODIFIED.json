@@ -1,0 +1,34 @@
+[
+  {
+    "SkuId": 21004100,
+    "GuidItems": [
+      {
+        "PrototypeGuid": 0,
+        "ItemPrototypeRuntimeIdForClient": 4280273926886592762,
+        "Quantity": 1
+      }
+    ],
+    "AdditionalGuidItems": [],
+    "LocalizedEntries": [
+      {
+        "LanguageId": "en_us",
+        "Description": "Medusa Team-Up",
+        "Title": "Medusa Team-Up",
+        "ReleaseDate": "",
+        "ItemPrice": 550
+      }
+    ],
+    "InfoUrls": [],
+    "ContentData": [],
+    "Type": {
+      "Name": "TeamUp",
+      "Order": 2
+    },
+    "TypeModifiers": [
+      {
+        "Name": "Giftable",
+        "Order": 2
+      }
+    ]
+  }
+]
