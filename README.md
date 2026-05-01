@@ -5,8 +5,8 @@ Marvel Heroes Omega Store – All Recipes MOD
 - Supports MHServerEmu v1.0.1
 
 Thanks:
-MHServerEmu Project: https://github.com/Crypto137/MHServerEmu
-CatalogManager Project: https://github.com/mtzimas92/MHServerEmu-CatalogManager
+- MHServerEmu Project: https://github.com/Crypto137/MHServerEmu
+- CatalogManager Project: https://github.com/mtzimas92/MHServerEmu-CatalogManager
 
 [===================== CHT Text =====================]
 
@@ -17,6 +17,6 @@ MarvelHeroes Omega 遊戲商城 - 全部配方 MOD
 - 支援 MHServerEmu 1.0.1
 
 感謝:
-MHServerEMU 專案 : https://github.com/Crypto137/MHServerEmu
-CatalogManager 專案 :  https://github.com/mtzimas92/MHServerEmu-CatalogManager
+- MHServerEMU 專案 : https://github.com/Crypto137/MHServerEmu
+- CatalogManager 專案 :  https://github.com/mtzimas92/MHServerEmu-CatalogManager
 
